@@ -6,7 +6,7 @@
 ### UI 
 ```
 - [Custom Font TabLayout](https://stackoverflow.com/questions/31067265/change-the-font-of-tab-text-in-android-design-support-tablayout)
-- [Show Eye Toggle Password in EditText and TextInputLayout](https://stackoverflow.com/questions/44173249/change-to-custom-icon-from-eye-icondefault-for-hide-show-password-in-android-e)
+- [Show Eye Toggle Password in EditText and TextInputLayout](https://stackoverflow.com/questions/39867669/show-password-icon-in-textinputlayout-touching-the-base-line)
 
 ```markdown
 ### BUGS 
